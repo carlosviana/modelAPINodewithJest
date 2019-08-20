@@ -1,0 +1,21 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "API Exemplo | Swagger Documentation",
+    "description": "Alguma descriçao qualquer",
+    "contact": {
+      "email": "carlos@tetrasolucoes.com.br"
+    },
+    "version": "1.0.1"
+  },
+  "externalDocs": {
+    "description": "Find out more about Swagger",
+    "url": "http://swagger.io"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3001"
+    }
+  ],
+  "paths": {}
+}
